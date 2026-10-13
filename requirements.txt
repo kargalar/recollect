@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+pystray
+Pillow
+pywin32
+psutil
+PyAutoGUI
+mss
+pytesseract
